@@ -8,6 +8,8 @@ set showmode			"Show current mode at bottom"
 
 syntax on			"Activate syntax highlighting"
 
+color dracula
+
 "Indentation and Tabs config
 set ai              "Activate automatic indentation
 set smartindent     "Do smart autoindenting when starting a new line
