@@ -2,9 +2,9 @@ set nocompatible		"Disable compatibility VI mode"
 
 
 "========== General Configs ==========="
-set visualbell                  "No sounds
-set number			"Line numbers"
-set showmode			"Show current mode at bottom"
+set visualbell   "No sounds
+set number       "Line numbers"
+set showmode     "Show current mode at bottom"
 
 syntax on			"Activate syntax highlighting"
 
